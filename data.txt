@@ -1,0 +1,10 @@
+post_tracker = t3_rvdjp5
+CLIENT_ID = ######################
+SECRET_TOKEN = ##############################
+VERSION = FilterFeedBot/0.1
+SUBREDDIT = Legomarket
+DISCORD_TOKEN = ###########################################################
+UNFILTERED_CHANNEL_ID = 922636765729280010
+FILTERED_CHANNEL_ID = 922636803515764758
+INCLUSIVE = UK
+EXCLUSIVE = [US
